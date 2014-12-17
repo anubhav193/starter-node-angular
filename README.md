@@ -13,6 +13,7 @@ A starter application for a Single Page MEAN Stack application. Just download an
 <b>Have fun being MEAN!</b>
 
 ## Installation
+
 1. Download the repository
 2. Install npm modules: `npm install`
 3. Install bower dependencies `bower install`
@@ -20,3 +21,7 @@ A starter application for a Single Page MEAN Stack application. Just download an
 5. View in browser at http://localhost:8080
 
 Use this starter kit to build any MEAN stack application you like.
+
+## Future Plans
+
+- Adding Gulp
